@@ -57,7 +57,7 @@ table Date
 			(YEAR('Date'[Date]) * 100) + MONTH('Date'[Date])
 		formatString: 0
 		lineageTag: f26d8342-6ed4-46bc-b3c5-39efc04ce822
-		summarizeBy: count
+		summarizeBy: none
 
 		annotation SummarizationSetBy = Automatic
 

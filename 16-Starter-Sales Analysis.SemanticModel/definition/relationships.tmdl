@@ -19,10 +19,6 @@ relationship 06d2419f-fdcc-47a0-4707-038f2ceb7174
 	fromColumn: SalespersonRegion.SalesTerritoryKey
 	toColumn: Region.SalesTerritoryKey
 
-relationship b67f057a-6409-6474-fce4-595e8035683f
-	fromColumn: Targets.EmployeeID
-	toColumn: 'Salesperson (Performance)'.EmployeeID
-
 relationship cc2e0e7c-5b82-65cc-30a8-f822bbac58eb
 	fromColumn: Sales.OrderDate
 	toColumn: Date.Date
@@ -30,8 +26,4 @@ relationship cc2e0e7c-5b82-65cc-30a8-f822bbac58eb
 relationship fe41aee4-4daa-952a-eb7a-93434d340a5f
 	fromColumn: Sales.EmployeeKey
 	toColumn: Salesperson.EmployeeKey
-
-relationship 4b28c4f5-2d51-4740-a3a6-32733b5b9da4
-	fromColumn: Targets.TargetMonth
-	toColumn: Date.Date
 

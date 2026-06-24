@@ -5,7 +5,7 @@
       "ordinal": 0,
       "scrollPosition": {
         "x": 0,
-        "y": 0
+        "y": 68.571428571428569
       },
       "nodes": [
         {
@@ -62,19 +62,6 @@
             "width": 234
           },
           "zIndex": 7
-        },
-        {
-          "location": {
-            "x": 624.70898553371273,
-            "y": 532.64634502742524
-          },
-          "nodeIndex": "Targets",
-          "nodeLineageTag": "fc05aa02-32da-45a3-a497-78e97999d244",
-          "size": {
-            "height": 300,
-            "width": 234
-          },
-          "zIndex": 6
         },
         {
           "location": {
